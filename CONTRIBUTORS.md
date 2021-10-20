@@ -9,3 +9,5 @@ contributors
 graph](https://github.com/Ed-Fi-Exchange-OSS/DataChecker-Collections/graphs/contributors).
 New contributors should add their name and e-mail address or link to GitHub
 profile to this file with their first pull request.
+
+* Jon Hickam jon@redglobeinc.com
