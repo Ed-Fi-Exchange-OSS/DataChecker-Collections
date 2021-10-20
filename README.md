@@ -12,7 +12,9 @@ or potentially other data validation engines.
    repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
 2. Upload your file into the correct directory. ([GitHub help: adding a file
    to a repository](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository))
-3. Create a pull request back to the [main 
+3. OPTIONAL: Edit the [CONTRIBUTORS.md](CONTRIBUTORS.md) file, adding your name and contact
+   information. ([GitHub help: editing files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files))
+4. Create a pull request back to the [main 
    DataChecker-Collections](https://github.com/Ed-Fi-Exchange-OSS/DataChecker-Collections)
    repository. ([GitHub help: creating a pull 
    request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request))
